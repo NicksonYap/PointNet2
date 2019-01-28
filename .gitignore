@@ -1,0 +1,7 @@
+python-environment/*
+data/*
+!data/README.md
+utils/*.pyc
+utils/*.so
+*.pyc
+log/
